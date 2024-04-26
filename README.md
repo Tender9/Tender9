@@ -2,6 +2,10 @@
 
 ### Hi there 👋
 
+![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=ubrong&layout=compact&theme=tokyonight)
+
+![Visitor Count](https://profile-counter.glitch.me/{ubrong}/count.svg) 作者：迷斯特航 https://www.bilibili.com/read/cv21336135/ 出处：bilibili
+
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=ubrong&show_icons=true&theme=tokyonight)
 
 **Tender9/Tender9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
