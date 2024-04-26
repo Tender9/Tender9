@@ -6,8 +6,6 @@
     </div>
 </a>
 
--   技术栈：
-
 ### TechnologyStack
 
 ![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -15,7 +13,7 @@
 ![](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
 ![](https://img.shields.io/badge/-Vue-green?style=flat-square&logo=Vue)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tender9&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tender9&show_icons=true&theme=buefy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tender9&layout=compact)](https://github.com/Tender9/github-readme-stats)
 
