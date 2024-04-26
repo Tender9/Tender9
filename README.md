@@ -1,25 +1,22 @@
 <!-- @format -->
 
-### Hi there 👋
+<a href="#">
+    <div>
+        <img src="https://count.getloli.com/get/@Tender9?theme=rule34" />
+    </div>
+</a>
 
-![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=ubrong&layout=compact&theme=tokyonight)
+-   技术栈：
 
-![Visitor Count](https://profile-counter.glitch.me/{ubrong}/count.svg) 作者：迷斯特航 https://www.bilibili.com/read/cv21336135/ 出处：bilibili
+### TechnologyStack
 
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=ubrong&show_icons=true&theme=tokyonight)
+![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
+![](https://img.shields.io/badge/-Vue-green?style=flat-square&logo=Vue)
 
-**Tender9/Tender9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tender9&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tender9&layout=compact)](https://github.com/Tender9/github-readme-stats)
 
--   🔭 I’m currently working on ...
-    yes，I‘m a front-end woker....
--   🌱 I’m currently learning ...
--   👯 I’m looking to collaborate on ...
--   🤔 I’m looking for help with ...
--   💬 Ask me about ...
--   📫 How to reach me: ...
--   😄 Pronouns: ...
--   ⚡ Fun fact: ...
-
-<img src="./assets/image-20240426233622897.png" alt="image-20240426233622897" style="zoom:50%;" />
+-   博客：[Tender9 的博客](https://Tender9.github.io/blog/)
