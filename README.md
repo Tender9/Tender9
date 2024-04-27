@@ -4,10 +4,6 @@
 
 ## Here is Tender9👋
 
-  <div>
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tender9" />
-</div>
-
 -   **INFJ**
 
 -   🔭 I live in ChongQing and work as a **Front-end Development Engineer** 👨‍💻
@@ -20,6 +16,19 @@
 
 -   🐱 I love cats and dogs, and I want have a cat.
 
-<br/>
+    <div>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tender9" />
+    </div>
+
+
+
+
+
+
+
+
+
+
+
 ✒️ My blog : [Tender9 的博客](https://Tender9.github.io/blog/)
-📫 How to reach me :  **race-ia@foxmail.com**
+📫 How to reach me : **race-ia@foxmail.com**
