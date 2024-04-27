@@ -12,6 +12,7 @@
 
 -   😎 I am also **moving in the direction of full stack**...
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tender9" />
 -   🤔 I like thinking , music and reading.
 
 -   🐱 I love cats and dogs, and I want have a cat.
@@ -19,6 +20,3 @@
 ✒️ My blog : [Tender9 的博客](https://Tender9.github.io/blog/)
 <br />
 📫 How to reach me : **race-ia@foxmail.com**
-    <div>
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tender9" />
-    </div>
