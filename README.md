@@ -35,9 +35,4 @@
     </div>
 </div>
 
-<div>
-    <h2>Github 活跃度</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=Tender9&show_icons=true&theme=vue" />
-</div>
-
 -   博客：[Tender9 的博客](https://Tender9.github.io/blog/)
